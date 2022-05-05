@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: rgb(0, 255, 238);
+    color: red;
+    font-size: 45px;
+    text-shadow: 2px 2px  rgb(0, 110, 255);
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+b{
+    color: gold;
+}
+.one img{
+    width: 100px;
+    float: left;
+    margin: 5px;
+}
+img{
+    width: 200px;
+   
+}
